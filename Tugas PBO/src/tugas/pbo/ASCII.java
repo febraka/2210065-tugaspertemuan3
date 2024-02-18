@@ -1,7 +1,5 @@
 package tugas.pbo;
 
-import java.util.Scanner;
-
 public class ASCII {
     public static void main(String[] args) {
         
