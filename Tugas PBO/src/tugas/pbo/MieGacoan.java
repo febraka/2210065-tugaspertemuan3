@@ -17,8 +17,7 @@ public class MieGacoan {
         } else {
             System.out.println("Anda tidak bisa membeli migacoan saat ini.");
         }
-        
-        // Jangan lupa untuk menutup Scanner setelah digunakan.
+
         input.close();
     }
 }
